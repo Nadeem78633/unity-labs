@@ -2,5 +2,5 @@
 
 ## How To Run the Project 
 
-npm install 
-npm start
+#### npm install 
+#### npm start
